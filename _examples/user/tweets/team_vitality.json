@@ -1,0 +1,3649 @@
+{
+    "data": [
+        {
+            "id": "1689298010373537792",
+            "text": "RT @VitalityHive: ℹ️ PREDICTION GAME UPDATE \n\nYou can now custom your bet from 300XP to 2000XP max 🚀\n\nAlso… the best predictor through RLCS…",
+            "attachments": {
+                "media_keys": null,
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "71",
+                        "name": "Video Game",
+                        "description": "A video game like Overwatch"
+                    },
+                    "entity": {
+                        "id": "1135913559727067136",
+                        "name": "Rocket League",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1135913559727067136",
+                        "name": "Rocket League",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667416061861888",
+                        "name": "Esports leagues",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1398237198919475200",
+                        "name": "Rocket League Championship Series",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "149",
+                        "name": "Esports League",
+                        "description": "An electronic sports league like Overwatch League"
+                    },
+                    "entity": {
+                        "id": "1398237198919475200",
+                        "name": "Rocket League Championship Series",
+                        "description": ""
+                    }
+                }
+            ],
+            "conversation_id": "1689298010373537792",
+            "created_at": "2023-08-09T15:30:05.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 135,
+                        "end": 138,
+                        "probability": 0.5148,
+                        "type": "Other",
+                        "normalized_text": "RLCS"
+                    }
+                ],
+                "urls": null,
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "VitalityHive"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "",
+            "lang": "en",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 29,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1689297898389848065"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689286041079840768",
+            "text": "@ego_v3 🍿",
+            "attachments": {
+                "media_keys": null,
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                }
+            ],
+            "conversation_id": "1689276343471456256",
+            "created_at": "2023-08-09T14:42:32.000Z",
+            "entities": {
+                "annotations": null,
+                "urls": null,
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "ego_v3"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "1556367867817459713",
+            "lang": "qme",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 2260,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 173,
+                "reply_count": 1,
+                "retweet_count": 93,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1689276343471456256"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689282987601383424",
+            "text": "RT @MagiskCS: Together with Kingston Fury we have decided to give away 1 SSD \u0026amp; 1 RAM 💛\nTo participate 👇\n- Follow @MagiskCS \u0026amp; @kingstontech…",
+            "attachments": {
+                "media_keys": null,
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "966711646163894273",
+                        "name": "Magisk",
+                        "description": "@MagiskCS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10050634442",
+                        "name": "Kingston Technology",
+                        "description": "Kingston Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "60",
+                        "name": "Athlete",
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                    },
+                    "entity": {
+                        "id": "966711646163894273",
+                        "name": "Magisk",
+                        "description": "@MagiskCS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "966711646163894273",
+                        "name": "Magisk",
+                        "description": "@MagiskCS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1146103171086819328",
+                        "name": "Gaming influencers",
+                        "description": "Gaming Personalities \u0026 Esports Players"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1146103171086819328",
+                        "name": "Gaming influencers",
+                        "description": "Gaming Personalities \u0026 Esports Players"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1288168909422518272",
+                        "name": "Esports players",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "138",
+                        "name": "Esports Player",
+                        "description": "An electronic sports player like Optic Scump"
+                    },
+                    "entity": {
+                        "id": "966711646163894273",
+                        "name": "Magisk",
+                        "description": "@MagiskCS"
+                    }
+                }
+            ],
+            "conversation_id": "1689282987601383424",
+            "created_at": "2023-08-09T14:30:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 28,
+                        "end": 40,
+                        "probability": 0.7986,
+                        "type": "Other",
+                        "normalized_text": "Kingston Fury"
+                    }
+                ],
+                "urls": null,
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "MagiskCS"
+                    },
+                    {
+                        "start": 117,
+                        "end": 126,
+                        "username": "MagiskCS"
+                    },
+                    {
+                        "start": 133,
+                        "end": 146,
+                        "username": "kingstontech"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "",
+            "lang": "en",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 3,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 181,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1689282137445335042"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689273735956537345",
+            "text": "Don't miss our back to back to back to back to back victory 🫡\n\nThere's still tickets available for the #RLCS Worlds in Düsseldorf and with the code: \"RLCSVIT\" you can get 10% off 3 day tickets\n\nTicket link: https://t.co/NleQIImOsW https://t.co/8CohLyAatZ",
+            "attachments": {
+                "media_keys": [
+                    "3_1689273711235321856"
+                ],
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "71",
+                        "name": "Video Game",
+                        "description": "A video game like Overwatch"
+                    },
+                    "entity": {
+                        "id": "1135913559727067136",
+                        "name": "Rocket League",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1135913559727067136",
+                        "name": "Rocket League",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667416061861888",
+                        "name": "Esports leagues",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1398237198919475200",
+                        "name": "Rocket League Championship Series",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "149",
+                        "name": "Esports League",
+                        "description": "An electronic sports league like Overwatch League"
+                    },
+                    "entity": {
+                        "id": "1398237198919475200",
+                        "name": "Rocket League Championship Series",
+                        "description": ""
+                    }
+                }
+            ],
+            "conversation_id": "1689273735956537345",
+            "created_at": "2023-08-09T13:53:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 107,
+                        "probability": 0.7036,
+                        "type": "Other",
+                        "normalized_text": "RLCS"
+                    },
+                    {
+                        "start": 119,
+                        "end": 128,
+                        "probability": 0.9592,
+                        "type": "Place",
+                        "normalized_text": "Düsseldorf"
+                    },
+                    {
+                        "start": 150,
+                        "end": 156,
+                        "probability": 0.7097,
+                        "type": "Other",
+                        "normalized_text": "RLCSVIT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/NleQIImOsW",
+                        "expanded_url": "https://rlcs.vivenu.store/event/rlcs-world-championships-2023-h3zkh1",
+                        "display_url": "rlcs.vivenu.store/event/rlcs-wor…",
+                        "status": 200,
+                        "title": "RLCS World Championships 2023",
+                        "description": "Rocket League World Championship Tickets are on sale now! Don't miss your opportunity to see the best teams in Rocket League compete for the title of World Champions!",
+                        "unwound_url": "https://rlcs.vivenu.store/event/rlcs-world-championships-2023-h3zkh1"
+                    },
+                    {
+                        "start": 231,
+                        "end": 254,
+                        "url": "https://t.co/8CohLyAatZ",
+                        "expanded_url": "https://twitter.com/TeamVitality/status/1689273735956537345/photo/1",
+                        "display_url": "pic.twitter.com/8CohLyAatZ",
+                        "status": 0,
+                        "title": "",
+                        "description": "",
+                        "unwound_url": ""
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 103,
+                        "end": 108,
+                        "tag": "RLCS"
+                    }
+                ],
+                "mentions": null,
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "",
+            "lang": "en",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 14944,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 394,
+                "reply_count": 2,
+                "retweet_count": 228,
+                "quote_count": 0
+            },
+            "referenced_tweets": null,
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689272718972039169",
+            "text": "RT @Daglas_lol: DO OR DIE 18:00 CET vs GO\n#VforVictory #VITWIN https://t.co/40fVZvGhKm",
+            "attachments": {
+                "media_keys": [
+                    "3_1689238251423322112"
+                ],
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                }
+            ],
+            "conversation_id": "1689272718972039169",
+            "created_at": "2023-08-09T13:49:36.000Z",
+            "entities": {
+                "annotations": null,
+                "urls": [
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/40fVZvGhKm",
+                        "expanded_url": "https://twitter.com/Daglas_lol/status/1689240225476648961/photo/1",
+                        "display_url": "pic.twitter.com/40fVZvGhKm",
+                        "status": 0,
+                        "title": "",
+                        "description": "",
+                        "unwound_url": ""
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 42,
+                        "end": 54,
+                        "tag": "VforVictory"
+                    },
+                    {
+                        "start": 55,
+                        "end": 62,
+                        "tag": "VITWIN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "Daglas_lol"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "",
+            "lang": "in",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 8,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 88,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1689240225476648961"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689268697637003264",
+            "text": "@zenrll followed 😃✅",
+            "attachments": {
+                "media_keys": null,
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                }
+            ],
+            "conversation_id": "1689232101474783235",
+            "created_at": "2023-08-09T13:33:37.000Z",
+            "entities": {
+                "annotations": null,
+                "urls": null,
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "zenrll"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "1212207116552822785",
+            "lang": "en",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 1813,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 197,
+                "reply_count": 0,
+                "retweet_count": 134,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1689232101474783235"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689268646483230720",
+            "text": "RT @zenrll: hey j’ai créé mon insta n’hésitez pas à le check ! 😃 https://t.co/HZGt8AswvD",
+            "attachments": {
+                "media_keys": null,
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                }
+            ],
+            "conversation_id": "1689268646483230720",
+            "created_at": "2023-08-09T13:33:25.000Z",
+            "entities": {
+                "annotations": null,
+                "urls": [
+                    {
+                        "start": 65,
+                        "end": 88,
+                        "url": "https://t.co/HZGt8AswvD",
+                        "expanded_url": "https://www.instagram.com/zenrl_official",
+                        "display_url": "instagram.com/zenrl_official",
+                        "status": 200,
+                        "title": "Alexis Bernier (@zenrl_official) • Instagram photos and videos",
+                        "description": "2 Followers, 0 Following, 1 Posts - See Instagram photos and videos from Alexis Bernier (@zenrl_official)",
+                        "unwound_url": "https://www.instagram.com/zenrl_official/"
+                    }
+                ],
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "zenrll"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "",
+            "lang": "fr",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 4,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 42,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1689232101474783235"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689264934134091776",
+            "text": "@TangoCharlot https://t.co/L15yfQHrAH",
+            "attachments": {
+                "media_keys": [
+                    "7_1689264910406950912"
+                ],
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                }
+            ],
+            "conversation_id": "1689233815510630404",
+            "created_at": "2023-08-09T13:18:39.000Z",
+            "entities": {
+                "annotations": null,
+                "urls": [
+                    {
+                        "start": 14,
+                        "end": 37,
+                        "url": "https://t.co/L15yfQHrAH",
+                        "expanded_url": "https://twitter.com/TeamVitality/status/1689264934134091776/video/1",
+                        "display_url": "pic.twitter.com/L15yfQHrAH",
+                        "status": 0,
+                        "title": "",
+                        "description": "",
+                        "unwound_url": ""
+                    }
+                ],
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "TangoCharlot"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "838088648134381568",
+            "lang": "qme",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 4082,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 212,
+                "reply_count": 2,
+                "retweet_count": 125,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1689233815510630404"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689256591894183938",
+            "text": "⬇️\n\nhttps://t.co/0bbGnpOffP",
+            "attachments": {
+                "media_keys": null,
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                }
+            ],
+            "conversation_id": "1689252690054774784",
+            "created_at": "2023-08-09T12:45:31.000Z",
+            "entities": {
+                "annotations": null,
+                "urls": [
+                    {
+                        "start": 4,
+                        "end": 27,
+                        "url": "https://t.co/0bbGnpOffP",
+                        "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3011149872",
+                        "display_url": "steamcommunity.com/sharedfiles/fi…",
+                        "status": 200,
+                        "title": "Steam Workshop::JBL Quantum Challenge",
+                        "description": "",
+                        "unwound_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3011149872"
+                    }
+                ],
+                "hashtags": null,
+                "mentions": null,
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "1603687711",
+            "lang": "qme",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 10393,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 141,
+                "reply_count": 0,
+                "retweet_count": 105,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1689252690054774784"
+                }
+            ],
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        },
+        {
+            "id": "1689252690054774784",
+            "text": "The best way to warm up before RLCS games 😏 \n\nThe Vitality x @JBLQuantum map ends in 4 days, make sure to do your best time to win rewards 👀 https://t.co/v10NAIsdbY",
+            "attachments": {
+                "media_keys": [
+                    "3_1689191708079038464"
+                ],
+                "poll_ids": null
+            },
+            "author_id": "1603687711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "1557696940178935808",
+                        "name": "Gaming Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "71",
+                        "name": "Video Game",
+                        "description": "A video game like Overwatch"
+                    },
+                    "entity": {
+                        "id": "1135913559727067136",
+                        "name": "Rocket League",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847527650667094017",
+                        "name": "Gaming",
+                        "description": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1135913559727067136",
+                        "name": "Rocket League",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667111932878848",
+                        "name": "Esports teams",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1272667416061861888",
+                        "name": "Esports leagues",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1398237198919475200",
+                        "name": "Rocket League Championship Series",
+                        "description": ""
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "137",
+                        "name": "Esports Team",
+                        "description": "An electronic sports team like Optic Gaming"
+                    },
+                    "entity": {
+                        "id": "967088150437707776",
+                        "name": "Team Vitality ",
+                        "description": "Team Vitality (Esports)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "149",
+                        "name": "Esports League",
+                        "description": "An electronic sports league like Overwatch League"
+                    },
+                    "entity": {
+                        "id": "1398237198919475200",
+                        "name": "Rocket League Championship Series",
+                        "description": ""
+                    }
+                }
+            ],
+            "conversation_id": "1689252690054774784",
+            "created_at": "2023-08-09T12:30:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 31,
+                        "end": 34,
+                        "probability": 0.7686,
+                        "type": "Other",
+                        "normalized_text": "RLCS"
+                    },
+                    {
+                        "start": 46,
+                        "end": 57,
+                        "probability": 0.7382,
+                        "type": "Other",
+                        "normalized_text": "The Vitality"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 141,
+                        "end": 164,
+                        "url": "https://t.co/v10NAIsdbY",
+                        "expanded_url": "https://twitter.com/TeamVitality/status/1689252690054774784/photo/1",
+                        "display_url": "pic.twitter.com/v10NAIsdbY",
+                        "status": 0,
+                        "title": "",
+                        "description": "",
+                        "unwound_url": ""
+                    }
+                ],
+                "hashtags": null,
+                "mentions": [
+                    {
+                        "start": 61,
+                        "end": 72,
+                        "username": "JBLQuantum"
+                    }
+                ],
+                "cashtags": null
+            },
+            "geo": {
+                "place_id": "",
+                "coordinates": {
+                    "type": "",
+                    "coordinates": null
+                }
+            },
+            "in_reply_to_user_id": "",
+            "lang": "en",
+            "non_public_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "organic_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "possiby_sensitive": false,
+            "promoted_metrics": {
+                "impression_count": 0,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "quote_count": 0
+            },
+            "public_metrics": {
+                "impression_count": 24245,
+                "url_link_clicks": 0,
+                "user_profile_clicks": 0,
+                "like_count": 481,
+                "reply_count": 3,
+                "retweet_count": 289,
+                "quote_count": 0
+            },
+            "referenced_tweets": null,
+            "source": "",
+            "withheld": {
+                "copyright": false,
+                "country_codes": null
+            }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1689273711235321856",
+                "type": "photo",
+                "url": "",
+                "duration_ms": 0,
+                "height": 0,
+                "non_public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "organic_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "preview_image_url": "",
+                "promoted_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "width": 0
+            },
+            {
+                "media_key": "3_1689238251423322112",
+                "type": "photo",
+                "url": "",
+                "duration_ms": 0,
+                "height": 0,
+                "non_public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "organic_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "preview_image_url": "",
+                "promoted_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "width": 0
+            },
+            {
+                "media_key": "7_1689264910406950912",
+                "type": "video",
+                "url": "",
+                "duration_ms": 0,
+                "height": 0,
+                "non_public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "organic_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "preview_image_url": "",
+                "promoted_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "width": 0
+            },
+            {
+                "media_key": "3_1689191708079038464",
+                "type": "photo",
+                "url": "",
+                "duration_ms": 0,
+                "height": 0,
+                "non_public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "organic_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "preview_image_url": "",
+                "promoted_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "public_metrics": {
+                    "playback_0_count": 0,
+                    "playback_100_count": 0,
+                    "playback_25_count": 0,
+                    "playback_50_count": 0,
+                    "playback_75_count": 0,
+                    "view_count": 0
+                },
+                "width": 0
+            }
+        ],
+        "users": [
+            {
+                "id": "1603687711",
+                "name": "Team Vitality 🐝",
+                "username": "TeamVitality",
+                "created_at": "2013-07-18T15:13:43.000Z",
+                "description": "World Esports Club Since 2013 | 32-time Champions 🏆 #VforVictory | Home @VitalityHive 🐝 | Customer service: @TeamVitaSupport",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "Paris",
+                "pinned_tweet_id": "1681673311732871168",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1666407034277822464/7QS7pch9_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/PAZ0NYrc0t",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1135562379381673986",
+                "name": "Vitality Hive 🐝",
+                "username": "VitalityHive",
+                "created_at": "2019-06-03T15:02:23.000Z",
+                "description": "The place for the @TeamVitality fans 🐝 \n\nV.Hive goes virtual and becomes the first web3 \"support to earn\" esport platform\n\nSEASON 3 IS HERE",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "102 bld Sébastopol Paris 75003",
+                "pinned_tweet_id": "1676990677396123648",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1592534366013603846/ysoqVw56_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/vhi7FmD8nM",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1556367867817459713",
+                "name": "Ego",
+                "username": "ego_v3",
+                "created_at": "2022-08-07T19:53:19.000Z",
+                "description": "000000000x000",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "France",
+                "pinned_tweet_id": "1631952889043116032",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1669093000142639106/gTTVck2i_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/8RJpYLdxx2",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "3996021815",
+                "name": "Emil Reif",
+                "username": "MagiskCS",
+                "created_at": "2015-10-19T17:31:30.000Z",
+                "description": "25-years-old professional CSGO player, playing for Vitality 🐝",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "Danmark",
+                "pinned_tweet_id": "1660350346374389763",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1653794014351486979/LDdmjc9l_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/omyPrXIf9V",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "21470979",
+                "name": "Kingston Technology",
+                "username": "kingstontech",
+                "created_at": "2009-02-21T07:59:59.000Z",
+                "description": "Whatever you do, where ever you go, #KingstonIsWithYou.",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "Fountain Valley, CA",
+                "pinned_tweet_id": "1533826428260782080",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/468524028836073472/QbQl_xXM_normal.png",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/cfN6xmJbQk",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1401546292350836738",
+                "name": "Daglas",
+                "username": "Daglas_lol",
+                "created_at": "2021-06-06T14:27:41.000Z",
+                "description": "17yo jg EUW CHALL 🇵🇱 🇬🇧  \njungler for @TeamVitality #VforVictory\n@czajekklol 😏\n@ProPlayersGG\nhttps://t.co/gy6Z4hlH8F\nhttps://t.co/nq8juy4os5",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "",
+                "pinned_tweet_id": "1604893085988691968",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1677339872447676416/FRH1ghoN_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/gluMst3sCO",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1212207116552822785",
+                "name": "vitality zen",
+                "username": "zenrll",
+                "created_at": "2020-01-01T03:01:55.000Z",
+                "description": "16 Professional Player for @teamvitality | zen@prodigy-agency.gg",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "",
+                "pinned_tweet_id": "1678179840459960323",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1687938147856912384/U9qvekxM_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "838088648134381568",
+                "name": "Tango",
+                "username": "TangoCharlot",
+                "created_at": "2017-03-04T18:07:59.000Z",
+                "description": "#VForVictory @GoldenHornets 🐝\n23 yo ~ Secrétaire des Golden Hornets 📝\n\nTwerk en @GH_GoldenBee",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "Paris",
+                "pinned_tweet_id": "",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1662822609585598464/TrLW4DZs_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1194980786350497793",
+                "name": "JBL Quantum",
+                "username": "JBLQuantum",
+                "created_at": "2019-11-14T14:10:40.000Z",
+                "description": "Official Gaming Headset Range From JBL #DareToDiveIn 🎧\n\nNeed support? Send a DM to @AskJBLQuantum",
+                "entities": {
+                    "annotations": null,
+                    "urls": null,
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "location": "",
+                "pinned_tweet_id": "",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1586020121562284033/wSbrImOk_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0
+                },
+                "url": "https://t.co/AcoOdm4oLl",
+                "verified": false,
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            }
+        ],
+        "tweets": [
+            {
+                "id": "1689297898389848065",
+                "text": "ℹ️ PREDICTION GAME UPDATE \n\nYou can now custom your bet from 300XP to 2000XP max 🚀\n\nAlso… the best predictor through RLCS Worlds will win a Vitality jersey signed by our three players 🎁\n\nGLHF 🫡 https://t.co/Uu00yH3sNu",
+                "attachments": {
+                    "media_keys": [
+                        "3_1689297868916436992"
+                    ],
+                    "poll_ids": null
+                },
+                "author_id": "1135562379381673986",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "id": "46",
+                            "name": "Business Taxonomy",
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                            "id": "1557696940178935808",
+                            "name": "Gaming Business",
+                            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "71",
+                            "name": "Video Game",
+                            "description": "A video game like Overwatch"
+                        },
+                        "entity": {
+                            "id": "1135913559727067136",
+                            "name": "Rocket League",
+                            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "839544337360801792",
+                            "name": "Esports",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "847527650667094017",
+                            "name": "Gaming",
+                            "description": "Gaming"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1135913559727067136",
+                            "name": "Rocket League",
+                            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1272667416061861888",
+                            "name": "Esports leagues",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1398237198919475200",
+                            "name": "Rocket League Championship Series",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "149",
+                            "name": "Esports League",
+                            "description": "An electronic sports league like Overwatch League"
+                        },
+                        "entity": {
+                            "id": "1398237198919475200",
+                            "name": "Rocket League Championship Series",
+                            "description": ""
+                        }
+                    }
+                ],
+                "conversation_id": "1689297898389848065",
+                "created_at": "2023-08-09T15:29:39.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "start": 117,
+                            "end": 120,
+                            "probability": 0.6899,
+                            "type": "Other",
+                            "normalized_text": "RLCS"
+                        },
+                        {
+                            "start": 187,
+                            "end": 190,
+                            "probability": 0.4609,
+                            "type": "Other",
+                            "normalized_text": "GLHF"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 194,
+                            "end": 217,
+                            "url": "https://t.co/Uu00yH3sNu",
+                            "expanded_url": "https://twitter.com/VitalityHive/status/1689297898389848065/photo/1",
+                            "display_url": "pic.twitter.com/Uu00yH3sNu",
+                            "status": 0,
+                            "title": "",
+                            "description": "",
+                            "unwound_url": ""
+                        }
+                    ],
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "en",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 5074,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 83,
+                    "reply_count": 8,
+                    "retweet_count": 29,
+                    "quote_count": 0
+                },
+                "referenced_tweets": null,
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1689276343471456256",
+                "text": "Vitality\n\nhttps://t.co/1lJct5gnSv https://t.co/4ESgAnJMJR",
+                "attachments": {
+                    "media_keys": [
+                        "3_1689276331723255808"
+                    ],
+                    "poll_ids": null
+                },
+                "author_id": "1556367867817459713",
+                "context_annotations": null,
+                "conversation_id": "1689276343471456256",
+                "created_at": "2023-08-09T14:04:00.000Z",
+                "entities": {
+                    "annotations": null,
+                    "urls": [
+                        {
+                            "start": 10,
+                            "end": 33,
+                            "url": "https://t.co/1lJct5gnSv",
+                            "expanded_url": "https://youtu.be/7oP-r5UyUZs",
+                            "display_url": "youtu.be/7oP-r5UyUZs",
+                            "status": 200,
+                            "title": "Le nouveau dieu de Rocket League n'a que seize ans.",
+                            "description": "Voilà l'exception, le phénomène, l’irrégularité de Rocket League. ...",
+                            "unwound_url": "https://www.youtube.com/watch?v=7oP-r5UyUZs\u0026feature=youtu.be"
+                        },
+                        {
+                            "start": 34,
+                            "end": 57,
+                            "url": "https://t.co/4ESgAnJMJR",
+                            "expanded_url": "https://twitter.com/ego_v3/status/1689276343471456256/photo/1",
+                            "display_url": "pic.twitter.com/4ESgAnJMJR",
+                            "status": 0,
+                            "title": "",
+                            "description": "",
+                            "unwound_url": ""
+                        }
+                    ],
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "en",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 33608,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 614,
+                    "reply_count": 46,
+                    "retweet_count": 138,
+                    "quote_count": 25
+                },
+                "referenced_tweets": null,
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1689282137445335042",
+                "text": "Together with Kingston Fury we have decided to give away 1 SSD \u0026amp; 1 RAM 💛\nTo participate 👇\n- Follow @MagiskCS \u0026amp; @kingstontech \n- RT \u0026amp; like this tweet.\n- Tag 2 friends in the comments.\n\nGood luck to everyone 🐝 https://t.co/ot4hVM2dk9",
+                "attachments": {
+                    "media_keys": [
+                        "3_1689282132563120129"
+                    ],
+                    "poll_ids": null
+                },
+                "author_id": "3996021815",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "id": "10",
+                            "name": "Person",
+                            "description": "Named people in the world like Nelson Mandela"
+                        },
+                        "entity": {
+                            "id": "966711646163894273",
+                            "name": "Magisk",
+                            "description": "@MagiskCS"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "30",
+                            "name": "Entities [Entity Service]",
+                            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                        },
+                        "entity": {
+                            "id": "781974596752842752",
+                            "name": "Services",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "46",
+                            "name": "Business Taxonomy",
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                            "id": "1557696940178935808",
+                            "name": "Gaming Business",
+                            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "47",
+                            "name": "Brand",
+                            "description": "Brands and Companies"
+                        },
+                        "entity": {
+                            "id": "10050634442",
+                            "name": "Kingston Technology",
+                            "description": "Kingston Technology"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "60",
+                            "name": "Athlete",
+                            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                        },
+                        "entity": {
+                            "id": "966711646163894273",
+                            "name": "Magisk",
+                            "description": "@MagiskCS"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "839544337360801792",
+                            "name": "Esports",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "847527650667094017",
+                            "name": "Gaming",
+                            "description": "Gaming"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "966711646163894273",
+                            "name": "Magisk",
+                            "description": "@MagiskCS"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1146103171086819328",
+                            "name": "Gaming influencers",
+                            "description": "Gaming Personalities \u0026 Esports Players"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1146103171086819328",
+                            "name": "Gaming influencers",
+                            "description": "Gaming Personalities \u0026 Esports Players"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1288168909422518272",
+                            "name": "Esports players",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "138",
+                            "name": "Esports Player",
+                            "description": "An electronic sports player like Optic Scump"
+                        },
+                        "entity": {
+                            "id": "966711646163894273",
+                            "name": "Magisk",
+                            "description": "@MagiskCS"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "47",
+                            "name": "Brand",
+                            "description": "Brands and Companies"
+                        },
+                        "entity": {
+                            "id": "10045225402",
+                            "name": "Twitter",
+                            "description": ""
+                        }
+                    }
+                ],
+                "conversation_id": "1689282137445335042",
+                "created_at": "2023-08-09T14:27:01.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "start": 14,
+                            "end": 26,
+                            "probability": 0.7586,
+                            "type": "Other",
+                            "normalized_text": "Kingston Fury"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 220,
+                            "end": 243,
+                            "url": "https://t.co/ot4hVM2dk9",
+                            "expanded_url": "https://twitter.com/MagiskCS/status/1689282137445335042/photo/1",
+                            "display_url": "pic.twitter.com/ot4hVM2dk9",
+                            "status": 0,
+                            "title": "",
+                            "description": "",
+                            "unwound_url": ""
+                        }
+                    ],
+                    "hashtags": null,
+                    "mentions": [
+                        {
+                            "start": 103,
+                            "end": 112,
+                            "username": "MagiskCS"
+                        },
+                        {
+                            "start": 119,
+                            "end": 132,
+                            "username": "kingstontech"
+                        }
+                    ],
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "en",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 25971,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 277,
+                    "reply_count": 133,
+                    "retweet_count": 181,
+                    "quote_count": 0
+                },
+                "referenced_tweets": null,
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1689240225476648961",
+                "text": "DO OR DIE 18:00 CET vs GO\n#VforVictory #VITWIN https://t.co/40fVZvGhKm",
+                "attachments": {
+                    "media_keys": [
+                        "3_1689238251423322112"
+                    ],
+                    "poll_ids": null
+                },
+                "author_id": "1401546292350836738",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "id": "46",
+                            "name": "Business Taxonomy",
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                            "id": "1557696940178935808",
+                            "name": "Gaming Business",
+                            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "839544337360801792",
+                            "name": "Esports",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "847527650667094017",
+                            "name": "Gaming",
+                            "description": "Gaming"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "967088150437707776",
+                            "name": "Team Vitality ",
+                            "description": "Team Vitality (Esports)"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1272667111932878848",
+                            "name": "Esports teams",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "137",
+                            "name": "Esports Team",
+                            "description": "An electronic sports team like Optic Gaming"
+                        },
+                        "entity": {
+                            "id": "967088150437707776",
+                            "name": "Team Vitality ",
+                            "description": "Team Vitality (Esports)"
+                        }
+                    }
+                ],
+                "conversation_id": "1689240225476648961",
+                "created_at": "2023-08-09T11:40:28.000Z",
+                "entities": {
+                    "annotations": null,
+                    "urls": [
+                        {
+                            "start": 47,
+                            "end": 70,
+                            "url": "https://t.co/40fVZvGhKm",
+                            "expanded_url": "https://twitter.com/Daglas_lol/status/1689240225476648961/photo/1",
+                            "display_url": "pic.twitter.com/40fVZvGhKm",
+                            "status": 0,
+                            "title": "",
+                            "description": "",
+                            "unwound_url": ""
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 26,
+                            "end": 38,
+                            "tag": "VforVictory"
+                        },
+                        {
+                            "start": 39,
+                            "end": 46,
+                            "tag": "VITWIN"
+                        }
+                    ],
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "in",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 17226,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 428,
+                    "reply_count": 41,
+                    "retweet_count": 88,
+                    "quote_count": 1
+                },
+                "referenced_tweets": null,
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1689232101474783235",
+                "text": "hey j’ai créé mon insta n’hésitez pas à le check ! 😃 https://t.co/HZGt8AswvD",
+                "attachments": {
+                    "media_keys": null,
+                    "poll_ids": null
+                },
+                "author_id": "1212207116552822785",
+                "context_annotations": null,
+                "conversation_id": "1689232101474783235",
+                "created_at": "2023-08-09T11:08:12.000Z",
+                "entities": {
+                    "annotations": null,
+                    "urls": [
+                        {
+                            "start": 53,
+                            "end": 76,
+                            "url": "https://t.co/HZGt8AswvD",
+                            "expanded_url": "https://www.instagram.com/zenrl_official",
+                            "display_url": "instagram.com/zenrl_official",
+                            "status": 200,
+                            "title": "Alexis Bernier (@zenrl_official) • Instagram photos and videos",
+                            "description": "2 Followers, 0 Following, 1 Posts - See Instagram photos and videos from Alexis Bernier (@zenrl_official)",
+                            "unwound_url": "https://www.instagram.com/zenrl_official/"
+                        }
+                    ],
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "fr",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 31553,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 332,
+                    "reply_count": 12,
+                    "retweet_count": 42,
+                    "quote_count": 0
+                },
+                "referenced_tweets": null,
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1689233815510630404",
+                "text": "La DA aux couleurs des Etats Unis... https://t.co/NT0StworT3",
+                "attachments": {
+                    "media_keys": null,
+                    "poll_ids": null
+                },
+                "author_id": "838088648134381568",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "id": "46",
+                            "name": "Business Taxonomy",
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                            "id": "1557696940178935808",
+                            "name": "Gaming Business",
+                            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "839544337360801792",
+                            "name": "Esports",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "847527650667094017",
+                            "name": "Gaming",
+                            "description": "Gaming"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "967088150437707776",
+                            "name": "Team Vitality ",
+                            "description": "Team Vitality (Esports)"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1272667111932878848",
+                            "name": "Esports teams",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "137",
+                            "name": "Esports Team",
+                            "description": "An electronic sports team like Optic Gaming"
+                        },
+                        "entity": {
+                            "id": "967088150437707776",
+                            "name": "Team Vitality ",
+                            "description": "Team Vitality (Esports)"
+                        }
+                    }
+                ],
+                "conversation_id": "1689233815510630404",
+                "created_at": "2023-08-09T11:15:00.000Z",
+                "entities": {
+                    "annotations": null,
+                    "urls": [
+                        {
+                            "start": 37,
+                            "end": 60,
+                            "url": "https://t.co/NT0StworT3",
+                            "expanded_url": "https://twitter.com/TeamVitality/status/1689233028688510976",
+                            "display_url": "twitter.com/TeamVitality/s…",
+                            "status": 0,
+                            "title": "",
+                            "description": "",
+                            "unwound_url": ""
+                        }
+                    ],
+                    "hashtags": null,
+                    "mentions": null,
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "fr",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 57530,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 552,
+                    "reply_count": 18,
+                    "retweet_count": 7,
+                    "quote_count": 0
+                },
+                "referenced_tweets": [
+                    {
+                        "type": "quoted",
+                        "id": "1689233028688510976"
+                    }
+                ],
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            },
+            {
+                "id": "1689252690054774784",
+                "text": "The best way to warm up before RLCS games 😏 \n\nThe Vitality x @JBLQuantum map ends in 4 days, make sure to do your best time to win rewards 👀 https://t.co/v10NAIsdbY",
+                "attachments": {
+                    "media_keys": [
+                        "3_1689191708079038464"
+                    ],
+                    "poll_ids": null
+                },
+                "author_id": "1603687711",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "id": "46",
+                            "name": "Business Taxonomy",
+                            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                        },
+                        "entity": {
+                            "id": "1557696940178935808",
+                            "name": "Gaming Business",
+                            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "71",
+                            "name": "Video Game",
+                            "description": "A video game like Overwatch"
+                        },
+                        "entity": {
+                            "id": "1135913559727067136",
+                            "name": "Rocket League",
+                            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "839544337360801792",
+                            "name": "Esports",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "847527650667094017",
+                            "name": "Gaming",
+                            "description": "Gaming"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "967088150437707776",
+                            "name": "Team Vitality ",
+                            "description": "Team Vitality (Esports)"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1135913559727067136",
+                            "name": "Rocket League",
+                            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1272667111932878848",
+                            "name": "Esports teams",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1272667416061861888",
+                            "name": "Esports leagues",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "131",
+                            "name": "Unified Twitter Taxonomy",
+                            "description": "A taxonomy of user interests. "
+                        },
+                        "entity": {
+                            "id": "1398237198919475200",
+                            "name": "Rocket League Championship Series",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "137",
+                            "name": "Esports Team",
+                            "description": "An electronic sports team like Optic Gaming"
+                        },
+                        "entity": {
+                            "id": "967088150437707776",
+                            "name": "Team Vitality ",
+                            "description": "Team Vitality (Esports)"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "149",
+                            "name": "Esports League",
+                            "description": "An electronic sports league like Overwatch League"
+                        },
+                        "entity": {
+                            "id": "1398237198919475200",
+                            "name": "Rocket League Championship Series",
+                            "description": ""
+                        }
+                    }
+                ],
+                "conversation_id": "1689252690054774784",
+                "created_at": "2023-08-09T12:30:00.000Z",
+                "entities": {
+                    "annotations": [
+                        {
+                            "start": 31,
+                            "end": 34,
+                            "probability": 0.7686,
+                            "type": "Other",
+                            "normalized_text": "RLCS"
+                        },
+                        {
+                            "start": 46,
+                            "end": 57,
+                            "probability": 0.7382,
+                            "type": "Other",
+                            "normalized_text": "The Vitality"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 141,
+                            "end": 164,
+                            "url": "https://t.co/v10NAIsdbY",
+                            "expanded_url": "https://twitter.com/TeamVitality/status/1689252690054774784/photo/1",
+                            "display_url": "pic.twitter.com/v10NAIsdbY",
+                            "status": 0,
+                            "title": "",
+                            "description": "",
+                            "unwound_url": ""
+                        }
+                    ],
+                    "hashtags": null,
+                    "mentions": [
+                        {
+                            "start": 61,
+                            "end": 72,
+                            "username": "JBLQuantum"
+                        }
+                    ],
+                    "cashtags": null
+                },
+                "geo": {
+                    "place_id": "",
+                    "coordinates": {
+                        "type": "",
+                        "coordinates": null
+                    }
+                },
+                "in_reply_to_user_id": "",
+                "lang": "en",
+                "non_public_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "organic_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "possiby_sensitive": false,
+                "promoted_metrics": {
+                    "impression_count": 0,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "quote_count": 0
+                },
+                "public_metrics": {
+                    "impression_count": 24245,
+                    "url_link_clicks": 0,
+                    "user_profile_clicks": 0,
+                    "like_count": 481,
+                    "reply_count": 3,
+                    "retweet_count": 289,
+                    "quote_count": 0
+                },
+                "referenced_tweets": null,
+                "source": "",
+                "withheld": {
+                    "copyright": false,
+                    "country_codes": null
+                }
+            }
+        ],
+        "places": null,
+        "polls": ""
+    },
+    "errors": null,
+    "meta": {
+        "oldest_id": "1689252690054774784",
+        "newest_id": "1689298010373537792",
+        "result_count": 10,
+        "next_token": "7140dibdnow9c7btw453p7jx17h69u4fyedcc4pgxosok",
+        "previous_token": ""
+    }
+}
